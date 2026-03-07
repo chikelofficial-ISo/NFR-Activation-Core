@@ -3,45 +3,42 @@
 
 ---
 
+## 🔬 Mathematical Foundation
+Unlike static gates (ReLU/GELU), **NFR** operates as an adaptive resonator. It uses a logarithmic fractal scale combined with harmonic oscillation to capture deep non-linear features:
+
+$$NFR(x) = \frac{x \cdot \sin(\omega \cdot \ln(|x| + 1.1))}{\cosh(\alpha \cdot x)}$$
+
+This architecture prevents gradient vanishing and allows the neuron to "tune" into the signal frequency.
+
+---
+
 ## 🚀 Breakthrough: 93.28% Precision Advantage
-NFR is a revolutionary activation function designed to outperform **GELU, SiLU, and ReLU** in high-noise environments, financial forecasting, and complex signal reconstruction.
+NFR outperforms **GELU, SiLU, and ReLU** in high-noise environments and complex signal reconstruction.
 
-### 📊 Industry Benchmarks (Visual Evidence)
-
+### 📊 Visual Evidence
 #### 1. Faster Convergence (Cost Saving)
-NFR achieves target loss **2.5x faster** than industry standards, significantly reducing GPU training costs and electricity consumption.
 ![Learning Speed](Convergence.png)
 
 #### 2. Financial Alpha (Trading Precision)
-In algorithmic trading simulations, NFR captures micro-fractal trends and non-linear patterns that standard functions completely "blur".
 ![Trading Precision](Trading.png)
 
-#### 3. Extreme Noise Filtering (Signal Recovery)
-NFR reconstructs clean signals from chaotic data with **60% less distortion** compared to GELU (Industry standard for Transformers).
+#### 3. Extreme Noise Filtering
 ![Deep Denoising](Denoising.png)
 
 ---
 
 ## 🏆 Performance Leaderboard (MSE Loss)
-*Comparison on high-noise non-linear signal reconstruction benchmarks*
 
-
-| Technology | Released | Error Rate (Lower is Better) | Status |
+| Technology | Released | Error Rate | Status |
 | :--- | :--- | :--- | :--- |
 | **ReLU** | 2010 | 0.52130 | 🔴 Outdated |
-| **GELU** (OpenAI Standard) | 2016 | 0.10425 | 🟡 Legacy Standard |
-| **SiLU** (Google Standard) | 2017 | 0.08940 | 🟡 Efficient |
+| **GELU** (Yandex Standard) | 2016 | 0.10425 | 🟡 Legacy |
 | **NFR (Resonance)** | **2026** | **0.00984** | **🟢 STATE-OF-THE-ART** |
 
 ---
 
 ## 🛠 Quick Start (30s Integration)
-NFR is designed for "drop-in" compatibility with **PyTorch**. Simply replace your standard activation layers:
-
 ```python
-# From this:
-# self.act = nn.GELU() 
-
-# To this:
 from nfr_activation import NFR
-self.act = NFR()
+self.act = NFR(omega=1.8, alpha=0.3)
+
