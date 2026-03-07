@@ -48,7 +48,7 @@ NFR reconstructs clean signals from chaotic data with **60% less distortion** co
 ```python
 from nfr_activation import NFR
 # Simply replace your nn.GELU() or nn.ReLU()
-self.act = NFR(omega=1.8, alpha=0.3)
+self.act = NFR(omega=1.8, alpha=0.3) ```
 🤝 Commercial Inquiry & Licensing
 NFR is available for exclusive integration, private equity, or per-project licensing.
 Telegram: Contact @Valera_Chikilev 🚀
