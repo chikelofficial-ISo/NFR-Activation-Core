@@ -15,7 +15,11 @@ This architecture prevents gradient vanishing and allows the neuron to "tune" in
 ## 🚀 Breakthrough: 93.28% Precision Advantage
 NFR is a revolutionary activation function designed to outperform **GELU, SiLU, and ReLU** in high-noise environments, financial forecasting, and complex signal reconstruction.
 
+![Absolute Performance Leader](Ultimate_93_Result.png)
+
 ### 📊 Visual Evidence
+... (остальные графики ниже)
+
 
 #### 1. Faster Convergence (Cost Saving)
 NFR achieves target loss **2.5x faster** than industry standards, saving massive GPU resources.
