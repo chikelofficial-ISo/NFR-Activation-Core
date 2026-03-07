@@ -52,12 +52,19 @@ self.act = NFR(omega=1.8, alpha=0.3)
 ```
 ---
 
-## 🤝 Commercial Inquiry & Licensing
-NFR is available for exclusive integration, private equity, or per-project licensing.
+---
 
+## 🤝 Commercial Inquiry & Licensing
+NFR is a proprietary technology available for:
+*   **Exclusive Integration** (Full buyout)
+*   **Hedge Fund Licensing** (Per-seat or profit-share)
+*   **Edge AI Optimization** (Custom tuning for IoT/Mobile)
+
+### 📧 Contact the Founder:
 * **Telegram:** [Telegram](https://t.me/Valera_Chikilev) 🚀🚀
 *   **Email:** [Chikelofficial@gmail.com](mailto:Chikelofficial@gmail.com) 📧
-*   **Founder:** [chikelofficial-ISo]
+*   **GitHub:** [chikelofficial-ISo]
+
 
 ---
 
