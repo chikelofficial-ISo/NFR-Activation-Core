@@ -50,11 +50,21 @@ from nfr_activation import NFR
 # Simply replace your nn.GELU() or nn.ReLU()
 self.act = NFR(omega=1.8, alpha=0.3) 
 ```
-🤝 Commercial Inquiry & Licensing
+---
+
+## 🤝 Commercial Inquiry & Licensing
 NFR is available for exclusive integration, private equity, or per-project licensing.
-Telegram: Contact @Valera_Chikilev 🚀
-Founder: [chikelofficial-ISo]
-📚 How to Cite
+
+*   **Telegram:** [Contact @Valera_Chikilev](https://t.me) 🚀
+*   **Founder:** [chikelofficial-ISo]
+
+---
+
+## 📚 How to Cite
 If you use NFR in your research, trading algorithms, or commercial products, please credit the author:
-Neural Fractal Resonance (NFR) by Valeriy (@chikelofficial-ISo), 2026.
-© 2026 chikelofficial-ISo. All rights reserved. Intellectual Priority Secured via GitHub.
+
+> `Neural Fractal Resonance (NFR) by Valeriy (@chikelofficial-ISo), 2026.`
+
+---
+*© 2026 chikelofficial-ISo. All rights reserved. Intellectual Priority Secured via GitHub.*
+
