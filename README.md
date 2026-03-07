@@ -18,7 +18,6 @@ NFR is a revolutionary activation function designed to outperform **GELU, SiLU, 
 ![Absolute Performance Leader](Ultimate_93_Result.png)
 
 ### 📊 Visual Evidence
-... (остальные графики ниже)
 
 
 #### 1. Faster Convergence (Cost Saving)
