@@ -65,7 +65,7 @@ I am open to any serious business offers regarding **NFR Technology**. Whether y
 *   **Corporate Buyout:** Full acquisition of the technology and IP rights.
 
 ### 📧 Get in Touch:
-* **Telegram:** [Telegram](https://t.me/Valera_Chikilev) 🚀🚀
+*  [**Telegram**](https://t.me/Valera_Chikilev) 🚀🚀
 *   **Email:** [Chikelofficial@gmail.com](mailto:Chikelofficial@gmail.com) 📧
 
 *© 2026 chikelofficial-ISo. All rights reserved. Priority Secured via GitHub.*
