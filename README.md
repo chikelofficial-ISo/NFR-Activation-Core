@@ -56,7 +56,7 @@ self.act = NFR(omega=1.8, alpha=0.3)
 NFR is available for exclusive integration, private equity, or per-project licensing.
 
 * **Telegram:** [Telegram](https://t.me/Valera_Chikilev) 🚀🚀
-
+*   **Email:** [Chikelofficial@gmail.com](mailto:Chikelofficial@gmail.com) 📧
 *   **Founder:** [chikelofficial-ISo]
 
 ---
