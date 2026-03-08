@@ -56,16 +56,27 @@ from nfr_activation import NFR
 self.act = NFR(omega=1.8, alpha=0.3) 
 ```
 
-🤝 Let's Work Together
-I am open to any serious business offers regarding NFR Technology. Whether you want to buy the full rights or just use it in your project, let's talk.
-💰 Use Cases for Partners:
-Hedge Funds: Integrate NFR into your trading bots for better alpha.
-AI Labs: Use NFR to speed up training and save on GPU costs.
-Corporate Buyout: Full acquisition of the technology and IP rights.
-📧 Get in Touch:
-Telegram 🚀🚀
-Email: Chikelofficial@gmail.com 📧
-📚 How to Cite
+
+---
+
+## 🤝 Let's Work Together
+I am open to any serious business offers regarding **NFR Technology**. Whether you want to buy the full rights or just use it in your project, let's talk.
+
+### 💰 Use Cases for Partners:
+*   **Hedge Funds:** Integrate NFR into your trading bots for better alpha.
+*   **AI Labs:** Use NFR to speed up training and save on GPU costs.
+*   **Corporate Buyout:** Full acquisition of the technology and IP rights.
+
+### 📧 Get in Touch:
+*   [**Telegram**](https://t.me) 🚀🚀
+*   **Email:** [Chikelofficial@gmail.com](mailto:Chikelofficial@gmail.com) 📧
+
+---
+
+## 📚 How to Cite
 If you use NFR in your research, trading algorithms, or commercial products, please credit the author:
-Neural Fractal Resonance (NFR) by Valeriy (@chikelofficial-ISo), 2026.
-© 2026 chikelofficial-ISo. All rights reserved. Priority Secured via GitHub.
+
+> `Neural Fractal Resonance (NFR) by Valeriy (@chikelofficial-ISo), 2026.`
+
+---
+*© 2026 chikelofficial-ISo. All rights reserved. Priority Secured via GitHub.*
