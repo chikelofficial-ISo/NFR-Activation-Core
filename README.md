@@ -3,6 +3,14 @@
 
 ---
 
+### 💼 [REQUEST COMMERCIAL LICENSE / PARTNERSHIP]
+👉 **[Secure your competitive advantage with NFR Technology](https://forms.gle/vMgBc3Zkiygxnpks9)** 👈
+*Official inquiry portal for Hedge Funds, AI Infrastructure, and Corporate Buyout.*
+
+---
+
+
+
 ## 🔬 Mathematical Foundation
 Unlike static gates (ReLU/GELU), **NFR** operates as an adaptive resonator. It uses a logarithmic fractal scale combined with harmonic oscillation to capture deep non-linear features:
 
