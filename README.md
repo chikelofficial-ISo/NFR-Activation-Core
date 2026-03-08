@@ -1,3 +1,9 @@
+![Python](https://img.shields.io)
+![PyTorch](https://img.shields.io)
+![License](https://img.shields.io)
+![Status](https://img.shields.io)
+![Advantage](https://img.shields.io)
+
 # 🌀 NFR: Neural Fractal Resonance Activation Layer
 **The Next Generation of AI Performance for High-Volatility Environments**
 
