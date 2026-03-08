@@ -29,7 +29,7 @@ NFR is a revolutionary activation function designed to outperform **GELU, SiLU, 
 👉 **[Click here to run Live Test: NFR vs GELU (+93.60%)](https://colab.research.google.com/drive/1kQFD1lbf7XlDJ93vpkGYr4vUOU24JskW?usp=sharing)** 👈
 
 
-![Absolute Performance Leader](Ultimate_93.png)
+![NFR Ultimate Precision Advantage](images/Ultimate_93.png)
 
 ### 📊 Visual Evidence
 
