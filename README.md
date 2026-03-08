@@ -1,9 +1,5 @@
 # 🌀 NFR: Neural Fractal Resonance Activation Layer
-`Python 3.8+` | `PyTorch 2.0+` | `License: Apache-2.0` | `Status: Production-Ready` | `Advantage: +93.67%`
 
-[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com)
-
----
 
 ### 🧠 The Physics of NFR: Why it works
 Unlike static gates (ReLU/GELU), **NFR** acts as an adaptive harmonic filter:
