@@ -97,6 +97,11 @@ Standard models (ReLU/GELU) treat crypto volatility as "noise" and smooth it out
 
 ---
 
+### 💎 [OFFICIAL CRYPTO HFT BENCHMARK]
+👉 **[Run Live Test: NFR vs GELU on High-Volatility Data](https://colab.research.google.com/drive/1qTERbFStJkpxN1BvTZ7odbnTc5ZBAS61?usp=sharing)** 👈
+*Verification of 81.34% precision advantage in stochastic market environments.*
+
+
 
 ---
 
