@@ -135,6 +135,15 @@ I am open to any serious business offers regarding **NFR Technology**. Whether y
 *   **AI Labs:** Use NFR to speed up training and save on GPU costs.
 *   **Corporate Buyout:** Full acquisition of the technology and IP rights.
 
+## ✅ Compatibility & Requirements
+NFR is designed to be lightweight and framework-agnostic within the PyTorch ecosystem.
+
+* **PyTorch:** 1.12.0+ (Tested on 2.0+)
+* **Hardware:** NVIDIA CUDA (All generations), Apple Silicon (MPS), and Standard CPU.
+* **Precision:** FP32, FP16 (Half-precision), and BF16 supported.
+* **Architectures:** Transformers (LLMs), CNNs (Computer Vision), and RNNs (Time-series).
+
+
 ### 📧 Get in Touch:
 * **Telegram:** [Telegram](https://t.me/Valera_Chikilev) 🚀
 *   **Email:** [Chikelofficial@gmail.com](mailto:Chikelofficial@gmail.com) 📧
