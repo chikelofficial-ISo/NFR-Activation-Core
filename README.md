@@ -1,4 +1,4 @@
-# 🌀 NFR: Neural Fractal Resonance Activation Layer
+	# 🌀 NFR: Neural Fractal Resonance Activation Layer
 **The Next Generation of AI Performance for High-Volatility Environments**
 ---
 
