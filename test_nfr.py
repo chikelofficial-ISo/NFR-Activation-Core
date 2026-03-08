@@ -1,3 +1,14 @@
+# ============================================================
+# NFR PRODUCTION-READY VERIFICATION SUITE
+# ------------------------------------------------------------
+# Purpose: Rigorous testing of Neural Fractal Resonance (NFR)
+# Metrics: Gradient Stability, Zero-NaN Flow, Hardware Compatibility
+# Targets: NVIDIA CUDA, Apple Silicon (MPS), Standard CPU
+#
+# Author: Valeriy (@chikelofficial-ISo)
+# © 2026. All rights reserved.
+# ============================================================
+
 import torch
 import torch.nn as nn
 
