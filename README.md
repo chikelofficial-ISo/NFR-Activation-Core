@@ -36,23 +36,25 @@ NFR reconstructs clean signals from chaotic data with **60% less distortion** co
 ---
 
 ## 🏆 Performance Leaderboard (MSE Loss)
-*Comparison on high-noise non-linear signal reconstruction benchmarks*
 
 
-| Technology | Released | Error Rate (Lower is Better) | Status |
+
+| Technology | Released | Error Rate | Status |
 | :--- | :--- | :--- | :--- |
 | **ReLU** | 2010 | 0.52130 | 🔴 Outdated |
-| **GELU** (Yandex Standard) | 2016 | 0.10425 | 🟡 Legacy Standard |
+| **GELU** (Industry Standard) | 2016 | 0.10425 | 🟡 Legacy |
 | **SiLU** (Google Standard) | 2017 | 0.08940 | 🟡 Efficient |
 | **NFR (Resonance)** | **2026** | **0.00984** | **🟢 STATE-OF-THE-ART** |
 
 ---
 
 ## 🛠 Quick Start (30s Integration)
+
 ```python
 from nfr_activation import NFR
 # Simply replace your nn.GELU() or nn.ReLU()
 self.act = NFR(omega=1.8, alpha=0.3) 
+
 
 ---
 🤝 Let's Work Together
