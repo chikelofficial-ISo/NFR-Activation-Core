@@ -1,6 +1,8 @@
 # 🌀 NFR: Neural Fractal Resonance Activation Layer
 **The Next Generation of AI Performance for High-Volatility Environments**
 
+[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com)
+
 ---
 
 ## 🔬 Mathematical Foundation
@@ -14,16 +16,10 @@ This architecture prevents gradient vanishing and allows the neuron to "tune" in
 
 ## 🚀 Breakthrough: 93.28% Precision Advantage
 NFR is a revolutionary activation function designed to outperform **GELU, SiLU, and ReLU** in high-noise environments, financial forecasting, and complex signal reconstruction.
-# 🌀 NFR: Neural Fractal Resonance Activation Layer
-
-[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com)
-
-
 
 ![Absolute Performance Leader](Ultimate_93.png)
 
 ### 📊 Visual Evidence
-
 
 #### 1. Faster Convergence (Cost Saving)
 NFR achieves target loss **2.5x faster** than industry standards, saving massive GPU resources.
@@ -57,35 +53,17 @@ NFR reconstructs clean signals from chaotic data with **60% less distortion** co
 from nfr_activation import NFR
 # Simply replace your nn.GELU() or nn.ReLU()
 self.act = NFR(omega=1.8, alpha=0.3) 
-```
----
 
----
-
----
-
-## 🤝 Let's Work Together
-I am open to any serious business offers regarding **NFR Technology**. Whether you want to buy the full rights or just use it in your project, let's talk.
-
-### 💰 Use Cases for Partners:
-*   **Hedge Funds:** Integrate NFR into your trading bots for better alpha.
-*   **AI Labs:** Use NFR to speed up training and save on GPU costs.
-*   **Corporate Buyout:** Full acquisition of the technology and IP rights.
-
-### 📧 Get in Touch:
-*  [**Telegram**](https://t.me/Valera_Chikilev) 🚀🚀
-*   **Email:** [Chikelofficial@gmail.com](mailto:Chikelofficial@gmail.com) 📧
-
-*© 2026 chikelofficial-ISo. All rights reserved. Priority Secured via GitHub.*
-
-
----
-
-## 📚 How to Cite
+🤝 Let's Work Together
+I am open to any serious business offers regarding NFR Technology. Whether you want to buy the full rights or just use it in your project, let's talk.
+💰 Use Cases for Partners:
+Hedge Funds: Integrate NFR into your trading bots for better alpha.
+AI Labs: Use NFR to speed up training and save on GPU costs.
+Corporate Buyout: Full acquisition of the technology and IP rights.
+📧 Get in Touch:
+Telegram 🚀🚀
+Email: Chikelofficial@gmail.com 📧
+📚 How to Cite
 If you use NFR in your research, trading algorithms, or commercial products, please credit the author:
-
-> `Neural Fractal Resonance (NFR) by Valeriy (@chikelofficial-ISo), 2026.`
-
----
-*© 2026 chikelofficial-ISo. All rights reserved. Intellectual Priority Secured via GitHub.*
-
+Neural Fractal Resonance (NFR) by Valeriy (@chikelofficial-ISo), 2026.
+© 2026 chikelofficial-ISo. All rights reserved. Priority Secured via GitHub.
