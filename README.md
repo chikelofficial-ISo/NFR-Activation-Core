@@ -3,7 +3,7 @@
 ---
 
 ### 💼 [REQUEST COMMERCIAL LICENSE / PARTNERSHIP]
-👉 **[Secure your competitive advantage with NFR Technology](https://docs.google.com/forms/d/1SMEBhlUUXdi888Xg11ywkSKLDG5zBB6IRZBfHH7N9_8/edit#responses))** 👈
+👉 **[Secure your competitive advantage with NFR Technology](https://docs.google.com/forms/d/e/1FAIpQLScKhV7IXpDhtgc89xPMT_1UrE6uhEo16fH8HZRow-Z8l3dfvw/viewform?usp=sharing&ouid=102195743366953698344))** 👈
 
 
 ---
