@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 [RUN OFFICIAL VERIFICATION IN GOOGLE COLAB]
-👉 **[Click here to verify 93.28% Precision]([https://colab.research.google.com](https://colab.research.google.com/drive/1kQFD1lbf7XlDJ93vpkGYr4vUOU24JskW?usp=sharing))** 👈
+👉 **[Click here to verify 93.28% Precision](https://colab.research.google.com/drive/1kQFD1lbf7XlDJ93vpkGYr4vUOU24JskW?usp=sharing)** 👈
 
 
 ---
