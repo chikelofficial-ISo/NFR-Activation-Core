@@ -54,6 +54,7 @@ from nfr_activation import NFR
 # Simply replace your nn.GELU() or nn.ReLU()
 self.act = NFR(omega=1.8, alpha=0.3) 
 
+---
 🤝 Let's Work Together
 I am open to any serious business offers regarding NFR Technology. Whether you want to buy the full rights or just use it in your project, let's talk.
 💰 Use Cases for Partners:
