@@ -1,13 +1,4 @@
-# 🌀 NFR: Neural Fractal Resonance Activation Layer
 
-
-### 🧠 The Physics of NFR: Why it works
-Unlike static gates (ReLU/GELU), **NFR** acts as an adaptive harmonic filter:
-1. **Fractal Scaling**: Captures multi-scale features simultaneously via logarithmic terms.
-2. **Resonant Oscillation**: Allows neurons to "tune in" to signal frequencies, ignoring noise.
-3. **Hyperbolic Stabilization**: Ensures gradient stability during extreme market volatility.
-
----
 
 
 # 🌀 NFR: Neural Fractal Resonance Activation Layer
@@ -21,7 +12,16 @@ Unlike static gates (ReLU/GELU), **NFR** acts as an adaptive harmonic filter:
 
 ---
 
+# 🌀 NFR: Neural Fractal Resonance Activation Layer
 
+
+### 🧠 The Physics of NFR: Why it works
+Unlike static gates (ReLU/GELU), **NFR** acts as an adaptive harmonic filter:
+1. **Fractal Scaling**: Captures multi-scale features simultaneously via logarithmic terms.
+2. **Resonant Oscillation**: Allows neurons to "tune in" to signal frequencies, ignoring noise.
+3. **Hyperbolic Stabilization**: Ensures gradient stability during extreme market volatility.
+
+---
 
 ## 🔬 Mathematical Foundation
 Unlike static gates (ReLU/GELU), **NFR** operates as an adaptive resonator. It uses a logarithmic fractal scale combined with harmonic oscillation to capture deep non-linear features:
