@@ -3,8 +3,8 @@
 ---
 
 ### 💼 [REQUEST COMMERCIAL LICENSE / PARTNERSHIP]
-👉 **Официальная форма заявки:** https://forms.gle 👈
-*Hedge Funds, AI Labs, and Corporate Buyout Inquiry Portal*
+👉 **[Secure your competitive advantage with NFR Technology](https://docs.google.com/forms/d/1SMEBhlUUXdi888Xg11ywkSKLDG5zBB6IRZBfHH7N9_8/edit#responses))** 👈
+
 
 ---
 
