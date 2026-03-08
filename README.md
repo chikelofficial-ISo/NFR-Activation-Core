@@ -1,7 +1,7 @@
 # 🌀 NFR: Neural Fractal Resonance Activation Layer
 **The Next Generation of AI Performance for High-Volatility Environments**
 
-[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com)
+[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com) 
 
 ---
 
