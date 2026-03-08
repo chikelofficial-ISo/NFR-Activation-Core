@@ -35,6 +35,7 @@ NFR is a revolutionary activation function designed to outperform **GELU, SiLU, 
 
 #### 1. Faster Convergence (Cost Saving)
 NFR achieves target loss **2.5x faster** than industry standards, saving massive GPU resources.
+Up to 2.5x faster convergence to target loss on complex signals
 ![NFR Convergence Speed](images/Convergence.png)
 
 #### 2. Financial Alpha (Trading Precision)
