@@ -88,7 +88,7 @@ Standard models (ReLU/GELU) treat crypto volatility as "noise" and smooth it out
 
 | Metric | ReLU (Legacy) | GELU (Standard) | **NFR (Resonance)** |
 | :--- | :--- | :--- | :--- |
-| **Signal Capture Precision** | 42.1% | 68.4% | **93.6% (Verified)** |
+| **Signal Capture Precision** | 42.1% | 68.4% | **74-93% (Verified)** |
 | **Pattern Recognition Depth** | 🔴 Low | 🟡 Moderate | **🟢 High-Fidelity** |
 | **Convergence Speed (Efficiency)**| 🟢 High | 🔴 Low | **🟢 2.5x Faster** |
 | **MSE Error Rate (Lower is Better)**| 0.52130 | 0.10425 | **0.00984** |
