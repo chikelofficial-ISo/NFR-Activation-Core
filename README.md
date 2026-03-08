@@ -1,7 +1,8 @@
 # 🌀 NFR: Neural Fractal Resonance Activation Layer
 **The Next Generation of AI Performance for High-Volatility Environments**
 
-👉 [Request Commercial License / Partnership](https://forms.gle) 👈
+👉 **[Request Commercial License / Partnership](https://forms.gle)** 👈
+
 
 ---
 
