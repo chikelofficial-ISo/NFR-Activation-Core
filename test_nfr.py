@@ -1,3 +1,11 @@
+# ============================================================
+# NFR PRODUCTION-READY VERIFICATION SUITE
+# Purpose: Ensures gradient stability and hardware compatibility.
+# Features: NaN check, Gradient flow, CUDA/MPS Support.
+# 
+# Author: Valeriy (@chikelofficial-ISo)
+# ============================================================
+
 import torch
 from nfr_activation import NFR
 
