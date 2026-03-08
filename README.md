@@ -6,7 +6,7 @@
 
 ---
 
-### 💼 [REQUEST COMMERCIAL LICENSE / PARTNERSHIP]
+
 👉 **[Secure your competitive advantage with NFR Technology](https://forms.gle/vMgBc3Zkiygxnpks9)** 👈
 *Official inquiry portal for Hedge Funds, AI Infrastructure, and Corporate Buyout.*
 
