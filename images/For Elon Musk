@@ -1,0 +1,32 @@
+import torch
+import torch.nn as nn
+
+class NFR(nn.Module):
+    """
+    Neural Fractal Resonance (NFR) Activation Layer.
+    Optimized for high-entropy signal recovery and plasma blackout telemetry.
+    """
+    def __init__(self, omega=2.2, alpha=0.25):
+        super(NFR, self).__init__()
+        self.omega = nn.Parameter(torch.tensor([omega]))
+        self.alpha = nn.Parameter(torch.tensor([alpha]))
+
+    def forward(self, x):
+        return (x * torch.sin(self.omega * torch.log(torch.abs(x) + 1.1))) / torch.cosh(self.alpha * x)
+
+class NFR_Recovery_Block(nn.Module):
+    """
+    SOTA Signal Recovery Architecture (NFR + LSTM).
+    Designed for Mission Critical Space Systems.
+    """
+    def __init__(self, input_dim=1, hidden_dim=128, num_layers=2):
+        super(NFR_Recovery_Block, self).__init__()
+        self.lstm = nn.LSTM(input_dim, hidden_dim, num_layers=num_layers, batch_first=True)
+        self.nfr = NFR()
+        self.out = nn.Linear(hidden_dim, input_dim)
+
+    def forward(self, x):
+        x, _ = self.lstm(x)
+        x = self.nfr(x)
+        return self.out(x)
+
